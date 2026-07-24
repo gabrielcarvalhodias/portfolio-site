@@ -79,12 +79,12 @@ export const videos: Video[] = [
   {
     id: "video-03",
     title: "Video 03",
-    youtubeUrl: "https://youtu.be/ZTqfaEKSscU?si=7vniv-xeiGOP6yJ6",
+    youtubeUrl: "https://youtu.be/sYWygU2ZDaA?si=JF24tGJSgl1ozaWn",
   },
   {
     id: "video-04",
     title: "Video 04",
-    youtubeUrl: "https://youtu.be/PdVdNrF-9AQ?si=4xIXlFjpBaUEa6vd",
+    youtubeUrl: "https://youtu.be/KqK1lusqkOU?si=qk4uL-p66xsNxzgL",
   },
   {
     id: "video-05",
@@ -94,6 +94,6 @@ export const videos: Video[] = [
   {
     id: "video-06",
     title: "Video 06",
-    youtubeUrl: "https://youtu.be/ZTqfaEKSscU?si=xy0Ds0V7l-fgBeU9",
+    youtubeUrl: "https://youtu.be/ks2VarKMJsQ?si=On4v0eRTUWFzbMPl",
   },
 ];
