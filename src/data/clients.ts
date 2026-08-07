@@ -15,7 +15,7 @@ export const clients: Client[] = [
 
   {
     name: "JettismToo",
-    subscribers: "219k",
+    subscribers: "310k",
     image: "/clients/jettismtoo.jpg",
     youtubeUrl: "https://youtube.com/@JettismToo",
   },
@@ -32,9 +32,9 @@ export const clients: Client[] = [
     youtubeUrl: "https://youtube.com/@BM738",
   },
   {
-    name: "cringebabyy",
-    subscribers: "5.3k",
-    image: "/clients/cringebabyy.jpg",
-    youtubeUrl: "https://youtube.com/@cringebabyy",
+    name: "CityBlox",
+    subscribers: "4.5k",
+    image: "/clients/cityblox.jpg",
+    youtubeUrl: "https://www.youtube.com/@CityBlox_YT/videos",
   },
 ];
