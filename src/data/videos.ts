@@ -74,7 +74,7 @@ export const videos: Video[] = [
   {
     id: "video-02",
     title: "Video 02",
-    youtubeUrl: "https://youtu.be/LJ8tdTFtNNQ?si=ibYsaT6WyRQlv4Tt",
+    youtubeUrl: "https://youtu.be/gNKihn86Fbw?si=ou7pZYoV8F62YhjH",
   },
   {
     id: "video-03",
@@ -94,6 +94,6 @@ export const videos: Video[] = [
   {
     id: "video-06",
     title: "Video 06",
-    youtubeUrl: "https://youtu.be/ks2VarKMJsQ?si=On4v0eRTUWFzbMPl",
+    youtubeUrl: "https://youtu.be/LJ8tdTFtNNQ?si=ibYsaT6WyRQlv4Tt",
   },
 ];

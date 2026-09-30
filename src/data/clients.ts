@@ -15,15 +15,15 @@ export const clients: Client[] = [
 
   {
     name: "JettismToo",
-    subscribers: "310k",
+    subscribers: "462k",
     image: "/clients/jettismtoo.jpg",
     youtubeUrl: "https://youtube.com/@JettismToo",
   },
   {
-    name: "Brett Maverick",
-    subscribers: "1.81M",
-    image: "/clients/brettmaverick.jpg",
-    youtubeUrl: "https://youtube.com/@BrettMaverick",
+    name: "Whimzee",
+    subscribers: "270k",
+    image: "/clients/whimzee.jpg",
+    youtubeUrl: "https://www.youtube.com/@Whimzee",
   },
   {
     name: "BM738",
